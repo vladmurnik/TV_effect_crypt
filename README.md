@@ -11,6 +11,7 @@ Small pet project: hide and extract ASCII messages inside PNG images under the d
 
 ```bash
 python -m venv .venv
+```
 ````
 
 * **Linux/macOS**:
@@ -54,3 +55,4 @@ python src/tv_effect_crypt.py --mode output --image photo --black-bit 0 --step 2
 * `--image` — PNG filename without extension.
 * `--black-bit` — define whether `0` or `1` is encoded as black.
 * `--step` — column step (controls spacing between vertical lines).
+
