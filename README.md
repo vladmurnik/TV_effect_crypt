@@ -1,4 +1,3 @@
-````markdown
 # tv_effect_crypt
 
 Small pet project: hide and extract ASCII messages inside PNG images under the disguise of an "old TV" vertical scanline effect.
@@ -11,7 +10,7 @@ Small pet project: hide and extract ASCII messages inside PNG images under the d
 
 ```bash
 python -m venv .venv
-
+```
 * **Linux/macOS**:
 
   ```bash
